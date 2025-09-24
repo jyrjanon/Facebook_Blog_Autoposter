@@ -37,8 +37,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/facebook-auto-poster.git](https://github.com/YOUR_USERNAME/facebook-auto-poster.git)
-    cd facebook-auto-poster
+    git clone [https://github.com/jyrjanon/Facebook_Blog_Autoposter.git](https://github.com/jyrjanon/Facebook_Blog_Autoposter.git)
+    cd Facebook_Blog_Autoposter
     ```
 
 2.  **Install Required Packages**
