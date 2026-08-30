@@ -76,3 +76,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## ⚠️ Disclaimer
 
 This script is intended for educational purposes only. Automating social media accounts may violate their Terms of Service. Please use this project responsibly and at your own risk.
+
+## Future Improvements
+
+- Add support for scheduling multiple posts.
+- Improve error handling for failed logins.
+- Add support for posting images.
