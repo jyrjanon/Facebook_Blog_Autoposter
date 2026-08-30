@@ -82,3 +82,7 @@ This script is intended for educational purposes only. Automating social media a
 - Add support for scheduling multiple posts.
 - Improve error handling for failed logins.
 - Add support for posting images.
+
+## Future Scalability
+
+- Automated AI generated Captions and Description
